@@ -57,6 +57,10 @@ float: left;
   outline: none;
 }
 
+.button:hover {
+  background-color: grey;
+}
+
 #equals {
   width: 154px;
 }
